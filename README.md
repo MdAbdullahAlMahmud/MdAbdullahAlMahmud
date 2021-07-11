@@ -42,7 +42,7 @@ Languages and Tools🛠:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/firebase-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/git-scm-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/github-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/figma-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-ar21.svg"></code>
 
   
   
