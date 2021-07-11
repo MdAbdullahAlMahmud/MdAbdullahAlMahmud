@@ -30,22 +30,29 @@ I am interested in learning app development 💖 to grow my knowledge in these T
 Languages and Tools🛠:
 </summary>
   <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  
+  
 </details>
 
 ---
