@@ -8,7 +8,7 @@ I am interested in learning app development 💖 to grow my knowledge in these T
 
 
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🔭 I’m currently working on Native Android Development.
 - 🌱 I’m currently learning Backend Development.
