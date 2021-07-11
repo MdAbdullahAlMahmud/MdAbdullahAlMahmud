@@ -98,11 +98,11 @@ Languages and Tools🛠:
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="159" height="88"/>
+  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="345" height="191"/>
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="159" height="88"/>
+  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="345" height="191"/>
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
