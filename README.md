@@ -31,12 +31,18 @@ Languages and Tools🛠:
 </summary>
   <br/>
   
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/c-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/xml-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/firebase-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/git-scm-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/github-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/figma-ar21.svg"></code>
 
   
   
