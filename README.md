@@ -1,4 +1,4 @@
-[![ProfileBanner](<img  alt="img" src="https://github.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/blob/main/Capture.JPG" width="1303" height="2430"/>)
+[![ProfileBanner](https://github.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/blob/main/updated_git_back.JPG)](https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
 
 ### About me🧑:
 I am Computer Engineering student and a android developer.<br/>
