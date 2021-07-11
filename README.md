@@ -98,7 +98,7 @@ Languages and Tools🛠:
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="563" height="313"/>
+  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="159" height="88"/>
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
