@@ -1,4 +1,4 @@
-[![ProfileBanner](https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/main/updated_git_back.jpg)(https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
+[![ProfileBanner](https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/main/updated_git_back.jpg)](https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
 
 ### About me🧑:
 I am Computer Engineering student and a android developer.<br/>
