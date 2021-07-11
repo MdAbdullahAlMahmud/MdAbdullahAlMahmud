@@ -26,8 +26,6 @@ I am interested in learning app development 💖 to grow my knowledge in these T
 ---
 ### 🛠️ Languages and Tools:
 
-https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java
-
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -39,30 +37,6 @@ https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
----
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
-  
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/c-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/xml-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/firebase-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/git-scm-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/github-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-ar21.svg"></code>
-
-  
-  
-</details>
 
 ---
 
