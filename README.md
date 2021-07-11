@@ -84,7 +84,7 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&locale=en&layout=compact&theme=chartreuse-tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/MdAbdullahAlMahmud">
