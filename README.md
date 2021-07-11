@@ -102,7 +102,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="563" height="313"/>
+  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="159" height="88"/>
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
