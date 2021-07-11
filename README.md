@@ -84,7 +84,7 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=27" />
   </a>
 
 <a href="https://github.com/MdAbdullahAlMahmud">
@@ -126,9 +126,6 @@ Languages and Tools🛠:
 
 <div align="center">
   
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/MdAbdullahAlMahmud?tab=repositories)!
-
 </div>
 -----
 
