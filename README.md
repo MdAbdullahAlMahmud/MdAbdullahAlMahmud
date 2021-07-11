@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/blob/main/Capture.JPG)](https://munna.wegrapps.com)
+[![ProfileBanner](https://github.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/blob/main/Capture.JPG)](https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
 
 ### About me🧑:
 I am Computer Engineering student and a android developer.<br/>
@@ -84,7 +84,7 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/MdAbdullahAlMahmud">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAbdullahAlMahmud&show_icons=true&locale=en&layout=compact&theme=chartreuse-tokyonight" />
   </a>
 
 <a href="https://github.com/MdAbdullahAlMahmud">
