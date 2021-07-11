@@ -94,15 +94,15 @@ Languages and Tools🛠:
 <br/>
 <br/>
 <br/>
-<div align="center">
+
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="345" height="191"/>
+  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/4kwallpaper.JPG" width="386" height="214"/>
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="345" height="191"/>
+  <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/hadis_sikhi.JPG" width="386" height="214"/>
 </a>
 
 <a href="https://github.com/Davekibh/Background-generator">
@@ -117,7 +117,7 @@ Languages and Tools🛠:
 
 
 
-
+<div align="center">
   
 </div>
 -----
