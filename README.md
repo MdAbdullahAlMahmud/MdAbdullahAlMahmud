@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/blob/main/updated_git_back.JPG)](https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
+[![ProfileBanner](https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/main/updated_git_back.jpg)(https://sites.google.com/diu.edu.bd/mdabdullahalmahmud/home)
 
 ### About me🧑:
 I am Computer Engineering student and a android developer.<br/>
@@ -110,6 +110,5 @@ I am interested in learning app development 💖 to grow my knowledge in these T
 
   
 </div>
------
 
 Last Edited on: 11/07/2021
